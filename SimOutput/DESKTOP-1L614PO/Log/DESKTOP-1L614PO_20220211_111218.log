@@ -1,0 +1,42 @@
+APPLICATION	CarMaker 10.2.1 - Car_Generic #1264 (win64-10.2.1)
+COMPILED	fh@obelix.ipg 2021-12-14 11:20:42
+ 
+FIRST_INIT	(internal default used)	2022-02-11 11:12:18
+TIME	0.000
+SIM_END			0s	0m
+IDLE	11:12:18
+TIME	125.729
+SIM_START	unknown	2022-02-11 11:33:17
+TIME	0.017
+ERROR		PowerTrain.Control: Unknown kind 'CM4SL', version 1
+SIM_ABORT	unknown	0s	0m
+SIM_START	unknown	2022-02-11 11:33:28
+TIME	0.017
+WARNING		PowerTrain.Control BEV RegBrake mode: SOC_lim_out is outside of battery SOC limits
+WARNING		PowerTrain.Control BEV RegBrake mode: SOC_lim_out is outside of battery SOC limits
+TIME	0.000
+SIMULATE	unknown
+
+TIME	60.009
+SIM_END		unknown	60s	425.23m
+TIME	65.417
+SIM_START	unknown	2022-02-11 11:34:26
+TIME	0.012
+WARNING		PowerTrain.Control BEV RegBrake mode: SOC_lim_out is outside of battery SOC limits
+WARNING		PowerTrain.Control BEV RegBrake mode: SOC_lim_out is outside of battery SOC limits
+TIME	0.000
+SIMULATE	unknown
+
+TIME	291.297
+WARNING		SPad_StartNote(PylonHit): Max. number of notes exceeded!
+TIME	3111.892
+SIM_END		unknown	3111.88s	22200m
+TIME	3150.133
+SIM_START	unknown	2022-02-11 11:43:43
+TIME	0.000
+SIMULATE	unknown
+
+TIME	290.854
+WARNING		SPad_StartNote(PylonHit): Max. number of notes exceeded!
+TIME	1560.248
+SIM_END		unknown	1560.24s	11122.5m

@@ -1,0 +1,50 @@
+APPLICATION	CarMaker 10.2.1 - Car_Generic #1264 (win64-10.2.1)
+COMPILED	fh@obelix.ipg 2021-12-14 11:20:42
+ 
+FIRST_INIT	(internal default used)	2022-02-13 00:19:04
+TIME	0.000
+SIM_END			0s	0m
+IDLE	00:19:05
+SIM_START	Tutorial/Autocross_TorqueVectoring	2022-02-13 00:19:05
+TIME	0.014
+ERROR		PowerTrain.Control: Unknown kind 'CM4SL', version 1
+SIM_ABORT	Tutorial/Autocross_TorqueVectoring	0s	0m
+TIME	5.133
+SIM_START	Competition/FS_Autocross	2022-02-13 00:19:57
+TIME	0.000
+SIMULATE	Competition/FS_Autocross
+
+TIME	70.899
+		Lap   1: t=  70.898s	Dist=754.1133m	sRoad=0.7073m
+TIME	139.519
+		Lap   2: t=  68.620s	Dist=755.8593m	sRoad=0.7064m
+		Lap Time = 68.620 secomds
+SIM_END		Competition/FS_Autocross	139.519s	1509.98m
+TIME	155.498
+SIM_START	Competition/FS_SkidPad	2022-02-13 00:22:43
+TIME	0.000
+SIMULATE	Competition/FS_SkidPad
+
+TIME	27.057
+SIM_END		Competition/FS_SkidPad	27.048s	255.264m
+SIM_START	Competition/FS_SkidPad	2022-02-13 00:22:51
+TIME	0.000
+SIMULATE	Competition/FS_SkidPad
+
+TIME	27.057
+SIM_END		Competition/FS_SkidPad	27.048s	255.264m
+TIME	30.486
+SIM_START	Competition/FS_SkidPad	2022-02-13 00:23:28
+TIME	0.000
+SIMULATE	Competition/FS_SkidPad
+
+TIME	27.057
+SIM_END		Competition/FS_SkidPad	27.048s	255.264m
+TIME	35.955
+SIM_START	Competition/FS_SkidPad	2022-02-13 00:25:00
+TIME	0.015
+ERROR		PowerTrain.Control: Unknown kind 'CM4SL', version 1
+SIM_ABORT	Competition/FS_SkidPad	0s	255.264m
+TIME	5.508
+SHUTDOWN	CarMaker quick shutdown initiated
+
