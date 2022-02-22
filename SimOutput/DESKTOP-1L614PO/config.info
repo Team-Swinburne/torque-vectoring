@@ -1,6 +1,6 @@
 #INFOFILE1.1 - Do not remove this line!
-TestRig.StartTime1970Str = 2022-02-13 00:19:04
-TestRig.StartTime1970 = 1644671944
+TestRig.StartTime1970Str = 2022-02-22 15:45:27
+TestRig.StartTime1970 = 1645505127
 CarMaker.Library = win64 10.2.1 #772
 CarMaker.Compiled = fh@obelix.ipg 2021-12-14 11:20:37
 CarMaker.CompileFlags:
@@ -30,6 +30,7 @@ Environment.Models:
 	Generic             	v1 (compat. v1)
 PTEngineCU.Models:
 	MyModel             	v1 (compat. v1)
+	CM4SL               	v1 (compat. v1)
 	Basic               	v1 (compat. v1)
 PTEngine.Models:
 	MyModel             	v1 (compat. v1)
@@ -40,6 +41,7 @@ PTEngine.Models:
 	Dummy               	v1 (compat. v1)
 PTMotorCU.Models:
 	MyModel             	v1 (compat. v1)
+	CM4SL               	v1 (compat. v1)
 	Basic               	v1 (compat. v1)
 PTMotor.Models:
 	MyModel             	v1 (compat. v1)
@@ -47,6 +49,7 @@ PTMotor.Models:
 	Starter             	v1 (compat. v1)
 PTTransmCU.Models:
 	MyModel             	v1 (compat. v1)
+	CM4SL               	v1 (compat. v1)
 	DCT                 	v1 (compat. v1)
 	CVT                 	v1 (compat. v1)
 	Auto_Conv_AMT       	v1 (compat. v1)
@@ -102,6 +105,7 @@ PowerTrainXWD.Models:
 	MyModel             	v1 (compat. v1)
 PTControl.Models:
 	MyModel             	v1 (compat. v1)
+	CM4SL               	v1 (compat. v1)
 	PowerSplit          	v1 (compat. v1)
 	Serial              	v1 (compat. v1)
 	Serial_Auto_AMT     	v1 (compat. v1)
@@ -128,6 +132,7 @@ PTGenCoupling.Models:
 	Visco               	v1 (compat. v1)
 PTBatteryCU.Models:
 	MyModel             	v1 (compat. v1)
+	CM4SL               	v1 (compat. v1)
 	LV_HV1              	v1 (compat. v1)
 	LV_HV1_HV2          	v1 (compat. v1)
 	LV                  	v1 (compat. v1)
@@ -150,6 +155,7 @@ Tire.Models:
 	RTTireWrap          	v1 (compat. v1)
 	MyModelSTI          	v1 (compat. v1)
 	MyModelCPI          	v1 (compat. v1)
+	CM4SL               	v1 (compat. v1)
 	IPGTIRE             	v1 (compat. v1)
 	TameTire            	v1 (compat. v1)
 	FTire               	v1 (compat. v1)
@@ -168,41 +174,51 @@ Aero.Models:
 	Dummy               	v1 (compat. v1)
 Susp_Spring.Models:
 	MyModel             	v1 (compat. v1)
+	CM4SL               	v1 (compat. v1)
 	Hookean             	v1 (compat. v1)
 Susp_ParasiticEffects.Models:
 	MyStiffnessModel    	v1 (compat. v1)
 	MyFrictionModel     	v1 (compat. v1)
+	CM4SL               	v1 (compat. v1)
 	Hookean             	v1 (compat. v1)
 	Dummy               	v1 (compat. v1)
 Susp_Damper.Models:
 	MyModel             	v1 (compat. v1)
+	CM4SL               	v1 (compat. v1)
 	Newtonian_wTopMnt   	v1 (compat. v1)
 	Newtonian           	v1 (compat. v1)
 	Dummy               	v1 (compat. v1)
 Susp_Buffer.Models:
 	MyModel             	v1 (compat. v1)
+	CM4SL               	v1 (compat. v1)
 	SerialHookean       	v1 (compat. v1)
 	ParallelHookean     	v1 (compat. v1)
 	Hookean             	v1 (compat. v1)
 	Dummy               	v1 (compat. v1)
 Susp_Stabi.Models:
 	MyModel             	v1 (compat. v1)
+	CM4SL               	v1 (compat. v1)
 	Hookean             	v1 (compat. v1)
 	Dummy               	v1 (compat. v1)
 Susp_Control.Models:
 	Dummy               	v1 (compat. v1)
 SuspExtFrcs.Models:
 	MyModel             	v1 (compat. v1)
+	CM4SL               	v1 (compat. v1)
 	SuspComponent       	v1 (compat. v1)
 	Dummy               	v1 (compat. v1)
 SuspEF_Spring.Models:
 	MyModel             	v1 (compat. v1)
+	CM4SL               	v1 (compat. v1)
 SuspEF_Damper.Models:
 	MyModel             	v1 (compat. v1)
+	CM4SL               	v1 (compat. v1)
 SuspEF_Buffer.Models:
 	MyModel             	v1 (compat. v1)
+	CM4SL               	v1 (compat. v1)
 SuspEF_Stabi.Models:
 	MyModel             	v1 (compat. v1)
+	CM4SL               	v1 (compat. v1)
 MCycleSuspFront.Models:
 MCycleSuspRear.Models:
 MCycleSuspFrcEl.Models:
@@ -233,6 +249,7 @@ HydBrakeSystem.Models:
 	PresDistrib         	v1 (compat. v1)
 HydBrakeControl.Models:
 	MyModel             	v1 (compat. v1)
+	CM4SL               	v1 (compat. v1)
 	HydHIL              	v1 (compat. v1)
 	HydBasic            	v1 (compat. v1)
 AirBrakeSystem.Models:
@@ -284,18 +301,20 @@ TrfFollow.Models:
 TrfLaneChange.Models:
 	HDMbased            	v1 (compat. v1)
 Application.Version = CarMaker 10.2.1 - Car_Generic
-Application.BuildVersion = 1264
-Application.CompileTime = 2021-12-14 11:20:42
+Application.BuildVersion = 1267
+Application.CompileTime = 2021-12-14 11:20:55
 Application.CompileUser = fh
 Application.CompileSystem = obelix.ipg
 Application.CompileFlags:
 	-m64 -O3 -DNDEBUG -DWIN32 -DWIN64 -DCM_NUMVER=100201
 	-DMYMODELS -Wall -Wimplicit -Wmissing-prototypes
-	-D__USE_MINGW_ANSI_STDIO -Wlogical-op
+	-D__USE_MINGW_ANSI_STDIO -Wlogical-op -DCM4SL
+	-U__STRICT_ANSI__ -Wall -malign-double
+	-fomit-frame-pointer
 
 Application.Libs:
-	libcar.a	CarMaker-Car win64 10.2.1 2021-12-14
-	libcarmaker.a	CarMaker win64 10.2.1 2021-12-14
+	libcar4sl.a	CarMaker-Car win64 10.2.1 2021-12-14
+	libcarmaker4sl.a	CarMaker win64 10.2.1 2021-12-14
 	libipgdriver.a	IPGDriver win64 10.2 2021-10-21
 	libipgroad.a	IPGRoad win64 10.2.1 2021-12-13
 	libipgtire.a	IPGTire win64 9.0.2 2020-06-29

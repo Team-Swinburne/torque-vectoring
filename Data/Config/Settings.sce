@@ -2,7 +2,7 @@
 FileIdent = Scenario-Config 1.0
 FileCreator = CarMaker for Simulink 10.2.1
 
-Scene.Country = DEU
+Scene.Country = GBR
 Scene.Country2 =
 Scene.DrivingSide = right
 Import.HDLM.ImportByRoute = 0

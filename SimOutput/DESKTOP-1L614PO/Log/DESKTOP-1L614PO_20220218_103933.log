@@ -1,0 +1,243 @@
+APPLICATION	CarMaker 10.2.1 - Car_Generic #1267 (win64-10.2.1)
+COMPILED	fh@obelix.ipg 2021-12-14 11:20:55
+ 
+SIM_START	unknown	2022-02-18 10:59:40
+TIME	0.000
+SIMULATE	unknown
+
+TIME	9.738
+		Acceleration Event time = 9.737 seconds
+SIM_END		unknown	10.085s	80.0321m
+APPLICATION	CarMaker 10.2.1 - Car_Generic #1267 (win64-10.2.1)
+COMPILED	fh@obelix.ipg 2021-12-14 11:20:55
+ 
+SIM_START	unknown	2022-02-18 11:00:05
+TIME	0.000
+SIMULATE	unknown
+
+TIME	9.736
+		Accel Time = 9.735 seconds
+SIM_END		unknown	9.839s	75.0219m
+APPLICATION	CarMaker 10.2.1 - Car_Generic #1267 (win64-10.2.1)
+COMPILED	fh@obelix.ipg 2021-12-14 11:20:55
+ 
+SIM_START	unknown	2022-02-18 11:08:28
+TIME	0.000
+SIMULATE	unknown
+
+TIME	9.024
+		Accel Time = 9.023 seconds
+SIM_END		unknown	9.127s	75.0358m
+APPLICATION	CarMaker 10.2.1 - Car_Generic #1267 (win64-10.2.1)
+COMPILED	fh@obelix.ipg 2021-12-14 11:20:55
+ 
+SIM_START	unknown	2022-02-18 11:09:02
+TIME	0.000
+SIMULATE	unknown
+
+TIME	9.439
+		Accel Time = 9.438 seconds
+SIM_END		unknown	9.583s	75.0275m
+APPLICATION	CarMaker 10.2.1 - Car_Generic #1267 (win64-10.2.1)
+COMPILED	fh@obelix.ipg 2021-12-14 11:20:55
+ 
+SIM_START	unknown	2022-02-18 11:09:34
+TIME	0.001
+WARNING		PowerTrain.Control BEV RegBrake mode: SOC_lim_out is outside of battery SOC limits
+WARNING		PowerTrain.Control BEV RegBrake mode: SOC_lim_out is outside of battery SOC limits
+TIME	0.000
+SIMULATE	unknown
+
+TIME	9.053
+		Accel Time = 9.052 seconds
+SIM_END		unknown	9.156s	75.0387m
+APPLICATION	CarMaker 10.2.1 - Car_Generic #1267 (win64-10.2.1)
+COMPILED	fh@obelix.ipg 2021-12-14 11:20:55
+ 
+SIM_START	unknown	2022-02-18 11:11:44
+TIME	0.000
+SIMULATE	unknown
+
+TIME	51.643
+SIM_END		unknown	51.642s	602.042m
+APPLICATION	CarMaker 10.2.1 - Car_Generic #1267 (win64-10.2.1)
+COMPILED	fh@obelix.ipg 2021-12-14 11:20:55
+ 
+SIM_START	unknown	2022-02-18 11:13:14
+TIME	0.000
+SIMULATE	unknown
+
+TIME	50.810
+SIM_END		unknown	50.809s	602.061m
+APPLICATION	CarMaker 10.2.1 - Car_Generic #1267 (win64-10.2.1)
+COMPILED	fh@obelix.ipg 2021-12-14 11:20:55
+ 
+SIM_START	unknown	2022-02-18 13:25:36
+TIME	0.000
+SIMULATE	unknown
+
+ERROR		Embedded FARoadSensor Geo:  xyz (nan nan nan) not found on Road
+WARNING		SPad_StartNote(PylonHit): Max. number of notes exceeded!
+SIM_ABORT	unknown	0.005s	4.96223e-008m
+APPLICATION	CarMaker 10.2.1 - Car_Generic #1267 (win64-10.2.1)
+COMPILED	fh@obelix.ipg 2021-12-14 11:20:55
+ 
+SIM_START	unknown	2022-02-18 13:29:29
+TIME	0.000
+SIMULATE	unknown
+
+ERROR		Embedded FARoadSensor Geo:  xyz (nan nan nan) not found on Road
+WARNING		SPad_StartNote(PylonHit): Max. number of notes exceeded!
+SIM_ABORT	unknown	0.005s	4.96223e-008m
+APPLICATION	CarMaker 10.2.1 - Car_Generic #1267 (win64-10.2.1)
+COMPILED	fh@obelix.ipg 2021-12-14 11:20:55
+ 
+SIM_START	unknown	2022-02-18 13:31:24
+TIME	0.000
+SIMULATE	unknown
+
+ERROR		Embedded FARoadSensor Geo:  xyz (nan nan nan) not found on Road
+WARNING		SPad_StartNote(PylonHit): Max. number of notes exceeded!
+SIM_ABORT	unknown	0.005s	4.96223e-008m
+APPLICATION	CarMaker 10.2.1 - Car_Generic #1267 (win64-10.2.1)
+COMPILED	fh@obelix.ipg 2021-12-14 11:20:55
+ 
+SIM_START	unknown	2022-02-18 13:34:06
+TIME	0.000
+SIMULATE	unknown
+
+ERROR		Embedded FARoadSensor Geo:  xyz (nan nan nan) not found on Road
+WARNING		SPad_StartNote(PylonHit): Max. number of notes exceeded!
+SIM_ABORT	unknown	0.005s	4.96223e-008m
+APPLICATION	CarMaker 10.2.1 - Car_Generic #1267 (win64-10.2.1)
+COMPILED	fh@obelix.ipg 2021-12-14 11:20:55
+ 
+SIM_START	unknown	2022-02-18 13:34:58
+TIME	0.000
+SIMULATE	unknown
+
+ERROR		Embedded FARoadSensor Geo:  xyz (nan nan nan) not found on Road
+WARNING		SPad_StartNote(PylonHit): Max. number of notes exceeded!
+SIM_ABORT	unknown	0.005s	4.96223e-008m
+APPLICATION	CarMaker 10.2.1 - Car_Generic #1267 (win64-10.2.1)
+COMPILED	fh@obelix.ipg 2021-12-14 11:20:55
+ 
+SIM_START	unknown	2022-02-18 13:37:47
+TIME	0.000
+SIMULATE	unknown
+
+ERROR		Embedded FARoadSensor Geo:  xyz (nan nan nan) not found on Road
+WARNING		SPad_StartNote(PylonHit): Max. number of notes exceeded!
+SIM_ABORT	unknown	0.005s	4.96223e-008m
+APPLICATION	CarMaker 10.2.1 - Car_Generic #1267 (win64-10.2.1)
+COMPILED	fh@obelix.ipg 2021-12-14 11:20:55
+ 
+SIM_START	unknown	2022-02-18 13:38:43
+TIME	0.000
+SIMULATE	unknown
+
+ERROR		Embedded FARoadSensor Geo:  xyz (nan nan nan) not found on Road
+WARNING		SPad_StartNote(PylonHit): Max. number of notes exceeded!
+SIM_ABORT	unknown	0.005s	4.96223e-008m
+APPLICATION	CarMaker 10.2.1 - Car_Generic #1267 (win64-10.2.1)
+COMPILED	fh@obelix.ipg 2021-12-14 11:20:55
+ 
+SIM_START	unknown	2022-02-18 13:39:52
+TIME	0.000
+SIMULATE	unknown
+
+TIME	23.754
+SIM_END		unknown	23.75s	0.428562m
+APPLICATION	CarMaker 10.2.1 - Car_Generic #1267 (win64-10.2.1)
+COMPILED	fh@obelix.ipg 2021-12-14 11:20:55
+ 
+SIM_START	unknown	2022-02-18 13:41:05
+TIME	0.000
+SIMULATE	unknown
+
+ERROR		Embedded FARoadSensor Geo:  xyz (nan nan nan) not found on Road
+WARNING		SPad_StartNote(PylonHit): Max. number of notes exceeded!
+SIM_ABORT	unknown	0.005s	4.96223e-008m
+APPLICATION	CarMaker 10.2.1 - Car_Generic #1267 (win64-10.2.1)
+COMPILED	fh@obelix.ipg 2021-12-14 11:20:55
+ 
+SIM_START	unknown	2022-02-18 13:43:58
+TIME	0.000
+SIMULATE	unknown
+
+TIME	13.918
+SIM_END		unknown	13.914s	0.231192m
+APPLICATION	CarMaker 10.2.1 - Car_Generic #1267 (win64-10.2.1)
+COMPILED	fh@obelix.ipg 2021-12-14 11:20:55
+ 
+SIM_START	unknown	2022-02-18 13:45:03
+TIME	0.000
+SIMULATE	unknown
+
+TIME	6.619
+SIM_END		unknown	6.615s	0.0832571m
+APPLICATION	CarMaker 10.2.1 - Car_Generic #1267 (win64-10.2.1)
+COMPILED	fh@obelix.ipg 2021-12-14 11:20:55
+ 
+SIM_START	unknown	2022-02-18 13:50:05
+TIME	0.000
+SIMULATE	unknown
+
+TIME	9.594
+SIM_END		unknown	9.59s	0.144894m
+APPLICATION	CarMaker 10.2.1 - Car_Generic #1267 (win64-10.2.1)
+COMPILED	fh@obelix.ipg 2021-12-14 11:20:55
+ 
+SIM_START	unknown	2022-02-18 13:51:36
+TIME	0.000
+SIMULATE	unknown
+
+TIME	37.164
+SIM_END		unknown	37.16s	0.699235m
+APPLICATION	CarMaker 10.2.1 - Car_Generic #1267 (win64-10.2.1)
+COMPILED	fh@obelix.ipg 2021-12-14 11:20:55
+ 
+SIM_START	unknown	2022-02-18 13:55:02
+TIME	0.000
+SIMULATE	unknown
+
+TIME	16.566
+SIM_END		unknown	16.562s	28.0285m
+APPLICATION	CarMaker 10.2.1 - Car_Generic #1267 (win64-10.2.1)
+COMPILED	fh@obelix.ipg 2021-12-14 11:20:55
+ 
+SIM_START	unknown	2022-02-18 13:55:47
+TIME	0.000
+SIMULATE	unknown
+
+TIME	20.338
+		Accel Time = 20.337 seconds
+SIM_END		unknown	20.485s	75.0189m
+APPLICATION	CarMaker 10.2.1 - Car_Generic #1267 (win64-10.2.1)
+COMPILED	fh@obelix.ipg 2021-12-14 11:20:55
+ 
+SIM_START	unknown	2022-02-18 13:57:41
+TIME	0.000
+SIMULATE	unknown
+
+TIME	6.255
+ERROR		Vehicle leaves road at about x=-9.40711e-005, y=-0.574635 TireNo=3
+SIM_ABORT	unknown	6.257s	0.500782m
+APPLICATION	CarMaker 10.2.1 - Car_Generic #1267 (win64-10.2.1)
+COMPILED	fh@obelix.ipg 2021-12-14 11:20:55
+ 
+SIM_START	unknown	2022-02-18 13:58:59
+TIME	0.000
+SIMULATE	unknown
+
+TIME	23.369
+SIM_END		unknown	23.365s	0.0018019m
+APPLICATION	CarMaker 10.2.1 - Car_Generic #1267 (win64-10.2.1)
+COMPILED	fh@obelix.ipg 2021-12-14 11:20:55
+ 
+SIM_START	unknown	2022-02-18 14:01:15
+TIME	0.000
+SIMULATE	unknown
+
+TIME	18.378
+SIM_END		unknown	18.374s	0.0013976m

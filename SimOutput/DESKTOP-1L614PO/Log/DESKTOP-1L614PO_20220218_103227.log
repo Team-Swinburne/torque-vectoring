@@ -1,0 +1,18 @@
+APPLICATION	CarMaker 10.2.1 - Car_Generic #1264 (win64-10.2.1)
+COMPILED	fh@obelix.ipg 2021-12-14 11:20:42
+ 
+FIRST_INIT	(internal default used)	2022-02-18 10:32:27
+TIME	0.000
+SIM_END			0s	0m
+IDLE	10:32:28
+SIM_START	unknown	2022-02-18 10:32:29
+TIME	0.018
+ERROR		PowerTrain.Control: Unknown kind 'CM4SL', version 1
+SIM_ABORT	unknown	0s	0m
+SIM_START	unknown	2022-02-18 10:32:47
+TIME	0.012
+ERROR		PowerTrain.Control: Unknown kind 'CM4SL', version 1
+SIM_ABORT	unknown	0s	0m
+TIME	28.562
+SHUTDOWN	CarMaker quick shutdown initiated
+

@@ -42,4 +42,10 @@ R1_Batt = 0.1;   % Resistance [Ohm]
 C2_Batt = 15;    % Capacity [F]
 R2_Batt = 0.1;   % Resistance [Ohm]
 
+%Ackerman look up table
+DeltaT = xlsread('TV Dynamic Test data_EXCEL.xlsx', 'Steering','K2:K55' ); %steering angle degrees
+Delta11T = xlsread('TV Dynamic Test data_EXCEL.xlsx', 'Steering','L2:L55' ); %steering angle degrees
+Delta12T = xlsread('TV Dynamic Test data_EXCEL.xlsx', 'Steering','M2:M55' ); %steering angle degrees
+
+
 display('loading m-file complete')
