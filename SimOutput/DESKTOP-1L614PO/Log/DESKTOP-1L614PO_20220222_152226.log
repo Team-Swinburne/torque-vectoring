@@ -61,3 +61,191 @@ SIMULATE	Competition/FS_SkidPad
 
 TIME	10.720
 SIM_END		Competition/FS_SkidPad	10.716s	86.6659m
+APPLICATION	CarMaker 10.2.1 - Car_Generic #1267 (win64-10.2.1)
+COMPILED	fh@obelix.ipg 2021-12-14 11:20:55
+ 
+SIM_START	Competition/FS_SkidPad	2022-02-22 15:59:00
+TIME	0.000
+SIMULATE	Competition/FS_SkidPad
+
+TIME	26.431
+SIM_END		Competition/FS_SkidPad	26.43s	255.37m
+APPLICATION	CarMaker 10.2.1 - Car_Generic #1267 (win64-10.2.1)
+COMPILED	fh@obelix.ipg 2021-12-14 11:20:55
+ 
+SIM_START	Competition/FS_SkidPad	2022-02-22 16:00:47
+TIME	0.000
+SIMULATE	Competition/FS_SkidPad
+
+TIME	33.466
+SIM_END		Competition/FS_SkidPad	33.465s	255.668m
+APPLICATION	CarMaker 10.2.1 - Car_Generic #1267 (win64-10.2.1)
+COMPILED	fh@obelix.ipg 2021-12-14 11:20:55
+ 
+SIM_START	Competition/FS_SkidPad	2022-02-22 16:01:44
+TIME	0.000
+SIMULATE	Competition/FS_SkidPad
+
+TIME	33.466
+SIM_END		Competition/FS_SkidPad	33.465s	255.668m
+APPLICATION	CarMaker 10.2.1 - Car_Generic #1267 (win64-10.2.1)
+COMPILED	fh@obelix.ipg 2021-12-14 11:20:55
+ 
+SIM_START	Competition/FS_SkidPad	2022-02-22 16:03:12
+TIME	0.000
+SIMULATE	Competition/FS_SkidPad
+
+TIME	26.431
+SIM_END		Competition/FS_SkidPad	26.43s	255.37m
+APPLICATION	CarMaker 10.2.1 - Car_Generic #1267 (win64-10.2.1)
+COMPILED	fh@obelix.ipg 2021-12-14 11:20:55
+ 
+SIM_START	Competition/FS_SkidPad	2022-02-22 16:04:49
+TIME	0.000
+SIMULATE	Competition/FS_SkidPad
+
+TIME	33.466
+SIM_END		Competition/FS_SkidPad	33.465s	255.668m
+APPLICATION	CarMaker 10.2.1 - Car_Generic #1267 (win64-10.2.1)
+COMPILED	fh@obelix.ipg 2021-12-14 11:20:55
+ 
+SIM_START	Competition/FS_SkidPad	2022-02-22 16:06:24
+TIME	0.000
+SIMULATE	Competition/FS_SkidPad
+
+TIME	26.492
+SIM_END		Competition/FS_SkidPad	26.491s	255.362m
+APPLICATION	CarMaker 10.2.1 - Car_Generic #1267 (win64-10.2.1)
+COMPILED	fh@obelix.ipg 2021-12-14 11:20:55
+ 
+SIM_START	Competition/FS_SkidPad	2022-02-22 16:08:48
+TIME	0.000
+SIMULATE	Competition/FS_SkidPad
+
+TIME	8.247
+SIM_END		Competition/FS_SkidPad	8.243s	44.7281m
+APPLICATION	CarMaker 10.2.1 - Car_Generic #1267 (win64-10.2.1)
+COMPILED	fh@obelix.ipg 2021-12-14 11:20:55
+ 
+SIM_START	Competition/FS_SkidPad	2022-02-22 16:16:32
+TIME	0.000
+SIMULATE	Competition/FS_SkidPad
+
+TIME	33.466
+SIM_END		Competition/FS_SkidPad	33.465s	255.668m
+APPLICATION	CarMaker 10.2.1 - Car_Generic #1267 (win64-10.2.1)
+COMPILED	fh@obelix.ipg 2021-12-14 11:20:55
+ 
+SIM_START	Competition/FS_SkidPad	2022-02-22 16:20:56
+TIME	0.000
+SIMULATE	Competition/FS_SkidPad
+
+TIME	26.591
+SIM_END		Competition/FS_SkidPad	26.59s	255.367m
+APPLICATION	CarMaker 10.2.1 - Car_Generic #1267 (win64-10.2.1)
+COMPILED	fh@obelix.ipg 2021-12-14 11:20:55
+ 
+SIM_START	Competition/FS_SkidPad	2022-02-22 16:23:01
+TIME	0.000
+SIMULATE	Competition/FS_SkidPad
+
+TIME	29.464
+SIM_END		Competition/FS_SkidPad	29.463s	599.893m
+APPLICATION	CarMaker 10.2.1 - Car_Generic #1267 (win64-10.2.1)
+COMPILED	fh@obelix.ipg 2021-12-14 11:20:55
+ 
+SIM_START	Competition/FS_SkidPad	2022-02-22 16:24:39
+TIME	0.000
+SIMULATE	Competition/FS_SkidPad
+
+TIME	24.594
+		Lap   1: t=  24.593s	Dist=358.3242m	sRoad=0.4026m
+TIME	42.891
+SIM_END		Competition/FS_SkidPad	42.887s	651.81m
+APPLICATION	CarMaker 10.2.1 - Car_Generic #1267 (win64-10.2.1)
+COMPILED	fh@obelix.ipg 2021-12-14 11:20:55
+ 
+SIM_START	Competition/FS_SkidPad	2022-02-22 16:27:03
+TIME	0.000
+SIMULATE	Competition/FS_SkidPad
+
+TIME	24.585
+		Lap   1: t=  24.584s	Dist=358.3283m	sRoad=0.4038m
+TIME	47.832
+		Lap   2: t=  23.247s	Dist=361.0652m	sRoad=0.4038m
+TIME	55.447
+SIM_END		Competition/FS_SkidPad	55.443s	874.212m
+APPLICATION	CarMaker 10.2.1 - Car_Generic #1267 (win64-10.2.1)
+COMPILED	fh@obelix.ipg 2021-12-14 11:20:55
+ 
+SIM_START	Competition/FS_SkidPad	2022-02-22 16:29:39
+TIME	0.000
+SIMULATE	Competition/FS_SkidPad
+
+TIME	24.551
+		Lap   1: t=  24.550s	Dist=358.3238m	sRoad=0.4031m
+TIME	47.782
+		Lap   2: t=  23.231s	Dist=361.0617m	sRoad=0.4011m
+TIME	53.254
+SIM_END		Competition/FS_SkidPad	53.25s	839.282m
+APPLICATION	CarMaker 10.2.1 - Car_Generic #1267 (win64-10.2.1)
+COMPILED	fh@obelix.ipg 2021-12-14 11:20:55
+ 
+SIM_START	Competition/FS_SkidPad	2022-02-22 16:35:23
+TIME	0.000
+SIMULATE	Competition/FS_SkidPad
+
+TIME	6.589
+SIM_END		Competition/FS_SkidPad	6.585s	109.338m
+APPLICATION	CarMaker 10.2.1 - Car_Generic #1267 (win64-10.2.1)
+COMPILED	fh@obelix.ipg 2021-12-14 11:20:55
+ 
+SIM_START	Competition/FS_SkidPad	2022-02-22 16:36:22
+TIME	0.000
+SIMULATE	Competition/FS_SkidPad
+
+TIME	24.551
+		Lap   1: t=  24.550s	Dist=358.3238m	sRoad=0.4031m
+TIME	47.782
+		Lap   2: t=  23.231s	Dist=361.0617m	sRoad=0.4011m
+TIME	52.580
+SIM_END		Competition/FS_SkidPad	52.576s	822.061m
+APPLICATION	CarMaker 10.2.1 - Car_Generic #1267 (win64-10.2.1)
+COMPILED	fh@obelix.ipg 2021-12-14 11:20:55
+ 
+SIM_START	Competition/FS_SkidPad	2022-02-22 16:38:23
+TIME	0.000
+SIMULATE	Competition/FS_SkidPad
+
+TIME	24.157
+SIM_END		Competition/FS_SkidPad	24.153s	597.555m
+APPLICATION	CarMaker 10.2.1 - Car_Generic #1267 (win64-10.2.1)
+COMPILED	fh@obelix.ipg 2021-12-14 11:20:55
+ 
+SIM_START	Competition/FS_Acceleration	2022-02-22 16:40:18
+TIME	0.000
+SIMULATE	Competition/FS_Acceleration
+
+TIME	5.253
+		Acceleration Event time = 5.252 seconds
+SIM_END		Competition/FS_Acceleration	5.515s	80.0427m
+APPLICATION	CarMaker 10.2.1 - Car_Generic #1267 (win64-10.2.1)
+COMPILED	fh@obelix.ipg 2021-12-14 11:20:55
+ 
+SIM_START	Competition/FS_Acceleration	2022-02-22 16:42:10
+TIME	0.000
+SIMULATE	Competition/FS_Acceleration
+
+TIME	5.253
+		Acceleration Event time = 5.252 seconds
+SIM_END		Competition/FS_Acceleration	5.515s	80.0427m
+APPLICATION	CarMaker 10.2.1 - Car_Generic #1267 (win64-10.2.1)
+COMPILED	fh@obelix.ipg 2021-12-14 11:20:55
+ 
+SIM_START	Competition/FS_Acceleration	2022-02-22 16:44:32
+TIME	0.000
+SIMULATE	Competition/FS_Acceleration
+
+TIME	5.253
+		Acceleration Event time = 5.252 seconds
+SIM_END		Competition/FS_Acceleration	5.515s	80.0427m
